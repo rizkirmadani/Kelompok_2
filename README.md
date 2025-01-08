@@ -1,7 +1,5 @@
 # Final Project Kelompok_2 
-**Nama** 1. Zewa Alfarizi Manefa (23.83.1012)
-
-   2. Rizki Ramadani (23.83.1015)
+**Nama** 1. Zewa Alfarizi Manefa (23.83.1012) 2. Rizki Ramadani (23.83.1015)
 
 **Kelas** 23TK02
 
