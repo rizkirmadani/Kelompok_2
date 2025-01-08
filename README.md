@@ -60,9 +60,9 @@ Proyek ini adalah implementasi API sederhana berbasis Python untuk mengelola dat
   ```
 **2. Menjalankan Server:**
    1. Jalankan server API dengan perintah berikut:
-     ```bash
-     python server.py
-     ```
+```bash
+python server.py
+```
    2. Server berjalan di http://127.0.0.1:5000 (default).
 
 **3. Menjalankan Client**
